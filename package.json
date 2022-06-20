@@ -1,0 +1,24 @@
+{
+  "name": "lukinto-font-convertor-gulp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Font convertor from '.ttf' to '.woff2' and/or '.woff' using gulp.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "clean": "gulp clean",
+    "woff2": "gulp woff2",
+    "woff": "gulp woff",
+    "ttf": "gulp ttf",
+    "fonts": "gulp"
+  },
+  "keywords": [],
+  "author": ":lukinto",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.3",
+    "gulp-ttf-to-woff": "^1.0.3",
+    "gulp-ttf2woff2": "^4.0.1"
+  }
+}
