@@ -1,4 +1,4 @@
-# lukinto-font-convertor-gulp
+# font-convertor-gulp
 ## Description
 Font convertor from '.ttf' to '.woff2' and/or '.woff' using gulp.
 The source files must be of the '.ttf' type, other file types are ignored. Directory for source files is the './src'. The converted files are placed in the './build' directory.

@@ -1,5 +1,5 @@
 {
-  "name": "lukinto-font-convertor-gulp",
+  "name": "font-convertor-gulp",
   "version": "1.0.0",
   "private": true,
   "description": "Font convertor from '.ttf' to '.woff2' and/or '.woff' using gulp.",
